@@ -6,7 +6,7 @@ import Navigation from '@/components/Navigation';
 const heebo = Heebo({ subsets: ['hebrew', 'latin'] });
 
 export const metadata: Metadata = {
-  title: 'Team Lavi | MMA Academy',
+  title: 'Team Lavi | טים לביא',
   description: 'Premium Martial Arts Training in Rehovot, Israel',
 };
 
