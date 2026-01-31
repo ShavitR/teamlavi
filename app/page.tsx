@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       {/* Scroll indicator for initial state */}
-      <div className="fixed bottom-10 left-1/2 -translate-x-1/2 text-white/50 animate-bounce pointer-events-none z-30 font-light tracking-widest text-sm">
+      <div className="fixed bottom-10 left-0 w-full text-center text-white/50 animate-bounce pointer-events-none z-30 font-light tracking-widest text-sm">
         SCROLL TO EXPLORE
       </div>
     </main>
