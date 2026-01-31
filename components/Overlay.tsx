@@ -28,8 +28,8 @@ const beats = [
         start: 0.35,
         end: 0.70,
         align: 'center',
-        title: 'MMA & BJJ',
-        subtitle: 'שילוב מנצח של לחימה בעמידה וקרקע',
+        title: 'MUAY THAI',
+        subtitle: 'ברמה הכי גבוהה שיש',
     },
     {
         id: 'beat-d',

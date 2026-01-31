@@ -12,7 +12,7 @@ const disciplines = [
         subtitle: 'The Ultimate Hybrid',
         desc: 'שילוב של לחימה בעמידה וקרקע. האימון המקיף ביותר המכין את הלוחם לזירה ולמצבי אמת. כאן הכל מתחבר.',
         video: 'https://cdn.pixabay.com/video/2021/01/29/63503-506992631_large.mp4',
-        image: 'https://placehold.co/1200x1200/050505/C5A059?text=MMA+PLACEHOLDER',
+        image: '/images/MMA.jpg',
         gridSpan: 'md:col-span-2 md:row-span-2',
         accent: 'from-[#C5A059] to-[#8B6D31]',
         placeholderLabel: 'MMA'
@@ -23,7 +23,7 @@ const disciplines = [
         subtitle: 'The Human Chess',
         desc: 'ג\'יו ג\'יטסו ברזילאי. לחימת קרקע חכמה, בריחים וחניקות. מתמקד בשליטה וטכניקה על פני כוח.',
         video: 'https://cdn.pixabay.com/video/2021/04/12/70868-537443152_large.mp4',
-        image: 'https://placehold.co/800x800/050505/C5A059?text=BJJ+PLACEHOLDER',
+        image: '/images/bjj.jpg',
         gridSpan: 'md:col-span-1 md:row-span-1',
         accent: 'from-zinc-400 to-zinc-600',
         placeholderLabel: 'ג\'יו ג\'יטסו'
@@ -34,7 +34,7 @@ const disciplines = [
         subtitle: 'Art of 8 Limbs',
         desc: 'אמנות 8 הגפיים. שימוש באגרופים, מרפקים, ברכיים ובעיטות. עוצמה, דיוק וקצב.',
         video: 'https://cdn.pixabay.com/video/2016/09/20/5316-183794301_large.mp4',
-        image: 'https://placehold.co/800x1200/050505/C5A059?text=MUAY+THAI+PLACEHOLDER',
+        image: '/images/muaythai.jpg',
         gridSpan: 'md:col-span-1 md:row-span-2',
         accent: 'from-[#C5A059] to-transparent',
         placeholderLabel: 'מואי תאי'
@@ -45,7 +45,7 @@ const disciplines = [
         subtitle: 'Reality Based',
         desc: 'מיומנויות מעשיות לחיים. בניית ביטחון עצמי ויכולת תגובה למצבי דחק. הגנה עצמית מודרנית.',
         video: 'https://cdn.pixabay.com/video/2016/03/17/2422-158301549_large.mp4',
-        image: 'https://placehold.co/800x800/050505/C5A059?text=DEFENSE+PLACEHOLDER',
+        image: '/images/defence.jpg',
         gridSpan: 'md:col-span-2 md:row-span-1',
         accent: 'from-zinc-800 to-black',
         placeholderLabel: 'הגנה עצמית'
@@ -56,7 +56,7 @@ const disciplines = [
         subtitle: 'Tomorrow\'s Warriors',
         desc: 'פיתוח קורדינציה, משמעת וביטחון עצמי באווירה תומכת ומהנה עבור הדור הבא.',
         video: 'https://cdn.pixabay.com/video/2024/05/26/213797_large.mp4',
-        image: 'https://placehold.co/1200x600/050505/C5A059?text=YOUTH+PLACEHOLDER',
+        image: '/images/youth.jpg',
         gridSpan: 'md:col-span-3 md:row-span-1',
         accent: 'from-white/20 to-transparent',
         placeholderLabel: 'ילדים ונוער'
